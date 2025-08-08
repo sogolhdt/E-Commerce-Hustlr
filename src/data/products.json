@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "price": 19.99,
+      "category": "Apparel",
+      "description": "Comfortable cotton t-shirt"
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "price": 49.99,
+      "category": "Apparel",
+      "description": "Slim fit blue jeans"
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 599.99,
+      "category": "Electronics",
+      "description": "Latest model smartphone"
+    }
+  ]
